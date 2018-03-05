@@ -1,6 +1,6 @@
 # Malwee Git Workshop
 
-Introdução do Workshop Git
+Outra introdução antes de fazer merge
 
 ## Parte 1
 
