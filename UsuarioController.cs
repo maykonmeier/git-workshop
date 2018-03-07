@@ -6,7 +6,6 @@ namespace Helios.Web.Controller {
 		public UsuarioController() {
 			this._constructorCount++;
 			// Teste Maquiina Maykon
-			var x = "Teste ABC 123";
 		}
 
 		public JsonResult Index() {
