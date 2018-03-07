@@ -4,6 +4,8 @@ Outra introdução antes de fazer merge
 
 ## Parte 1
 
+Titulo parte 1 maq. Maykon
+
 Resumo: temos como objetivo compartilhar um pouco sobre algumas funcionalidades do Git de nível intermediário que vão auxiliar no dia a dia das equipes.
 
 ## Parte 2
