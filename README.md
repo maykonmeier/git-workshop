@@ -10,6 +10,8 @@ Resumo: temos como objetivo compartilhar um pouco sobre algumas funcionalidades 
 
 Em desenvolvimento
 
+Titulo parte 2 maq. Rodrigo
+
 ## Parte 3
 
 Durante a apresentação, mais um teste apenas de diff
