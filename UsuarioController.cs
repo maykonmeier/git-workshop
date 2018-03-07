@@ -5,6 +5,7 @@ namespace Helios.Web.Controller {
 
 		public UsuarioController() {
 			this._constructorCount++;
+			// Apenas um comentário
 		}
 
 		public JsonResult Index() {
