@@ -11,6 +11,7 @@ namespace Helios.Web.Controller {
 
 		public JsonResult Index() {
 			this._count++;
+			var y = this._count;
 			return View("Inicio", new { Counter = this._count, ConstructorCount = this._constructorCount });
 		}
 	}
